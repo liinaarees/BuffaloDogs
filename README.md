@@ -1,1 +1,239 @@
-# BuffaloDogs
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Buffalo Dogs</title>
+</head>
+
+<body>
+    <h1>Bienvenidos al sitio web de los Buffalo Dogs</h1>
+    <p> Acá presentaremos a cada integrante de Buffalo Dogs, donde podrás ver los datos de cada uno
+        y su respectiva debilidad. Adicionalmente podrás enviarle un mensaje completamente
+        anónimo a cualquier integrante o si quieres a todos.
+    </p>
+    <p>
+        <strong>IMPORTANTE:</strong> Esta página solo pueden utilizarla personas que tengan +18.
+    </p>
+    <hr noshade="">
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="maui.png" alt="Maui Picture" width="400px" height="400px"></td>
+            <td>
+                <h1>Mateo Denegri-Cornejo</h1>
+                <h3>Maui, Fragatacap, Mauro</h3>
+                <p>
+                    Enamorado de la vida.
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/fragatacap/">Instagram</a>
+                </p>
+                <p><strong>Debilidad:</strong> Olga.</p>
+                <form action="">
+                    <label>Escribe algo que quieras decirle:</label><br><br>
+                    <textarea name="yourMessage" id="" cols="60" rows="10"></textarea><br>
+                    <input type="submit" name="">
+                </form>
+            </td>
+        </tr>
+    </table>
+    <hr noshade="">
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="jair.png" alt="Jair Picture" width="400px" height="400px"></td>
+            <td>
+                <h1>Jair Sanchez</h1>
+                <h3>Lilpapijayfred, Jairfredsanchez</h3>
+                <p>
+                    El último romántico.
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/jairfredsanchez/">Instagram</a>
+                </p>
+                <p><strong>Debilidad:</strong> Valentina.</p>
+                <form action="">
+                    <label>Escribe algo que quieras decirle:</label><br><br>
+                    <textarea name="yourMessage" id="" cols="60" rows="10"></textarea><br>
+                    <input type="submit" name="">
+                </form>
+            </td>
+    </table>
+    <hr noshade="">
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="leo.png" alt="Leo Picture" width="400px" height="400px"></td>
+            <td>
+                <h1>Leo Atencia</h1>
+                <h3>The Lion, Leito Gael</h3>
+                <p>
+                    Peruano conquistando América.
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/leogaelatencia/">Instagram</a>
+                </p>
+                <p><strong>Debilidad:</strong> Daniela.</p>
+                <form action="">
+                    <label>Escribe algo que quieras decirle:</label><br><br>
+                    <textarea name="yourMessage" id="" cols="60" rows="10"></textarea><br>
+                    <input type="submit" name="">
+                </form>
+            </td>
+        </tr>
+    </table>
+    <hr noshade="">
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="raton.png" alt="Isra Picture" width="400px" height="400px"></td>
+            <td>
+                <h1>Israel Muñoz</h1>
+                <h3>La Rata Muñiz, La Rata, El Ratón</h3>
+                <p>
+                    Emprendedor incomprendido.
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/israelsmunoz/">Instagram</a>
+                </p>
+                <p><strong>Debilidad:</strong> Bri.</p>
+                <form action="">
+                    <label>Escribe algo que quieras decirle:</label><br><br>
+                    <textarea name="yourMessage" id="" cols="60" rows="10"></textarea><br>
+                    <input type="submit" name="">
+                </form>
+            </td>
+        </tr>
+    </table>
+    <hr noshade="">
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="karim.png" alt="Amel Picture" width="400px" height="400px"></td>
+            <td>
+                <h1>Amel Atencia</h1>
+                <h3>Karim, Acaparador</h3>
+                <p>
+                    Donde pone el ojo pone lo acaparador.
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/amelkarimap/">Instagram</a>
+                </p>
+                <p><strong>Debilidad:</strong> Vero.</p>
+                <form action="">
+                    <label>Escribe algo que quieras decirle:</label><br><br>
+                    <textarea name="yourMessage" id="" cols="60" rows="10"></textarea><br>
+                    <input type="submit" name="">
+                </form>
+            </td>
+        </tr>
+    </table>
+    <hr noshade="">
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="rex.png" alt="Rex Picture" width="400px" height="400px"></td>
+            <td>
+                <h1>Enzo Gonzales</h1>
+                <h3>Rex, Malcriado, Feo Borracho, Cheroka</h3>
+                <p>
+                    Amigo de todas.
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/enzogonzales128/">Instagram</a>
+                </p>
+                <p><strong>Debilidad:</strong> Ana Paula.</p>
+                <form action="">
+                    <label>Escribe algo que quieras decirle:</label><br><br>
+                    <textarea name="yourMessage" id="" cols="60" rows="10"></textarea><br>
+                    <input type="submit" name="">
+                </form>
+            </td>
+        </tr>
+    </table>
+    <hr noshade="">
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="rey.png" alt="Rey Picture" width="400px" height="400px"></td>
+            <td>
+                <h1>Patrick Lewis</h1>
+                <h3>El Rey, Guapo, Patrik</h3>
+                <p>
+                    Con flaca.
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/patrick_lewis18/">Instagram</a>
+                </p>
+                <p><strong>Debilidad:</strong> Maya.</p>
+                <form action="">
+                    <label>Escribe algo que quieras decirle:</label><br><br>
+                    <textarea name="yourMessage" id="" cols="60" rows="10"></textarea><br>
+                    <input type="submit" name="">
+                </form>
+            </td>
+        </tr>
+    </table>
+    <hr noshade="">
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="meme.png" alt="Meme Picture" width="400px" height="400px"></td>
+            <td>
+                <h1>José Miguel Góngora</h1>
+                <h3>Meme</h3>
+                <p>
+                    Pocos lo han visto.
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/josemgongora/">Instagram</a>
+                </p>
+                <p><strong>Debilidad:</strong> Mica.</p>
+                <form action="">
+                    <label>Escribe algo que quieras decirle:</label><br><br>
+                    <textarea name="yourMessage" id="" cols="60" rows="10"></textarea><br>
+                    <input type="submit" name="">
+                </form>
+            </td>
+        </tr>
+    </table>
+    <hr noshade="">
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="ñoba.png" alt="Ñoba Picture" width="400px" height="400px"></td>
+            <td>
+                <h1>Rodrigo Novoa</h1>
+                <h3>Ñoba</h3>
+                <p>
+                    Músico soltero.
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/rodrigonovoac/">Instagram</a>
+                </p>
+                <p><strong>Debilidad:</strong> ?.</p>
+                <form action="">
+                    <label>Escribe algo que quieras decirle:</label><br><br>
+                    <textarea name="yourMessage" id="" cols="60" rows="10"></textarea><br>
+                    <input type="submit" name="">
+                </form>
+            </td>
+        </tr>
+    </table>
+    <hr noshade="">
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="rodri.png" alt="Rodri Picture" width="400px" height="400px"></td>
+            <td>
+                <h1>Rodrigo Linares</h1>
+                <h3>Rodri, Sociedad</h3>
+                <p>
+                    Últimamente todas son de él.
+                </p>
+                <p>
+                    <a href="https://www.instagram.com/rodrigolinares04/">Instagram</a>
+                </p>
+                <p><strong>Debilidad:</strong> Claudia.</p>
+                <form action="">
+                    <label>Escribe algo que quieras decirle:</label><br><br>
+                    <textarea name="yourMessage" id="" cols="60" rows="10"></textarea><br>
+                    <input type="submit" name="">
+                </form>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
